@@ -478,7 +478,7 @@ np.linalg.solve(arr7, arr8)
 
 
 
-I gave us the array of [x0, x1] . Let's check if it holds.
+It gave us the array of [x0, x1] . Let's check if it holds.
 
 
 ```python
